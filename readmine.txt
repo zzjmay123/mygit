@@ -1,2 +1,3 @@
 Git is my first file
-hello world
+hello world java
+Git is Free softwore
